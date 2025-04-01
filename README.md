@@ -1,5 +1,5 @@
 # 💫 About Me:
-I want to work as a machine learning engineer and data scientist.
+I am an AI & Machine Learning specialist with expertise in data-driven problem-solving, predictive modeling, and deep learning. My background in mechanical engineering has equipped me with a strong analytical foundation, which I now apply to solving complex challenges in data science.
 
 
 ## 🌐 Socials:
